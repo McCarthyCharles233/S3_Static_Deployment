@@ -1,0 +1,13 @@
+{
+    "Id": "Policy1716486432686",
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Sid": "Stmt1716485910912",
+        "Action": "s3:*",
+        "Effect": "Allow",
+        "Resource": "arn:aws:s3:::portfoliobucket233/*",
+        "Principal": "*"
+      }
+    ]
+  }

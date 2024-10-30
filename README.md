@@ -1,4 +1,4 @@
-PROJECT: HOSTING A STATIC WEBSITE USING AMAZON S3
+# PROJECT: HOSTING A STATIC WEBSITE USING AMAZON S3
 Objective:
 To host a static website using Amazon S3 by creating a bucket, uploading files, enabling static website hosting, configuring access permissions, and successfully deploying the website.
 
